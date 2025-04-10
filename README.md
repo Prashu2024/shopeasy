@@ -31,8 +31,8 @@ This is a clone of the e-commerce site based on the [reference site](http://edce
 
 1. Clone the repository
 ```
-git clone <repository-url>
-cd e-commerce-project
+git clone https://github.com/Prashu2024/shopeasy
+cd shopeasy
 ```
 
 2. Install dependencies
