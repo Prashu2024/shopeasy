@@ -74,8 +74,5 @@ This project uses the [Platzi Fake API](https://fakeapi.platzi.com/) for product
 
 ## Deployment
 
-The project is built using Vite and can be deployed to any static hosting service like Netlify, Vercel, or GitHub Pages.
+The project is built using Vite and can be deployed to any static hosting service like Netlify, Vercel, or GitHub Pages. Plese checkout the deployed [app](https://shopeasy-pi.vercel.app/).
 
-## License
-
-This project is licensed under the MIT License.
