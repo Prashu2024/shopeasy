@@ -22,8 +22,8 @@ const Footer = () => {
         
         <FooterSection>
           <FooterTitle>Contact</FooterTitle>
-          <FooterText>support@shopeasy.example.com</FooterText>
-          <FooterText>+1 (555) 123-4567</FooterText>
+          <FooterText>prashant10gpt@gmail.com</FooterText>
+          <FooterText>+91 7905199035</FooterText>
         </FooterSection>
       </FooterContent>
       
